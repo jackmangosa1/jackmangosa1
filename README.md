@@ -9,7 +9,7 @@ I am a creative front-end developer with industry experience building websites a
 *   🌍  I'm based in Kigali/Rwanda
 *   ✉️  You can contact me at [jackmangosa@gmail.com](mailto:jackmangosa@gmail.com)
 *   🧠  I'm learning the Javascript ecosystem
-*   🤝  I'm open to collaborating on Web apps projects### Skills 
+*   🤝  I'm open to collaborating on Web apps projects
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -22,8 +22,7 @@ I am a creative front-end developer with industry experience building websites a
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
-                  
+               
                   
                 <p align="left">
                           
