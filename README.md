@@ -9,7 +9,7 @@ I am a creative front-end developer with industry experience building websites a
 *   🌍  I'm based in Kigali/Rwanda
 *   ✉️  You can contact me at [jackmangosa@gmail.com](mailto:jackmangosa@gmail.com)
 *   🧠  I'm learning the Javascript ecosystem
-*   🤝  I'm open to collaborating on Web apps projects
+*   🤝  I'm open to collaborating on Web app projects
 <p align="left">
   
 Skills
