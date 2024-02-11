@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jack Mangosa
 ====================================================================================================================================
 
-Software Developper
+Software Developer
 --------------------
 
 Dynamic software developer, specializing in crafting  user-friendly web applications to solve real-world problems.
