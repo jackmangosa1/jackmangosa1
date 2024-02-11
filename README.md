@@ -3,15 +3,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jack Mangosa
 ====================================================================================================================================
 
-Front-end Developper
+Software Developper
 --------------------
 
-I am a creative front-end developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React and Next.js.
+I am a creative software developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React and Next.js.
 
-*   🌍  I'm based in Kigali/Rwanda
-*   ✉️  You can contact me at [jackmangosa@gmail.com](mailto:jackmangosa@gmail.com)
-*   🧠  I'm learning the Javascript ecosystem
-*   🤝  I'm open to collaborating on Web app projects
 <p align="left">
   
 Skills
