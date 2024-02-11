@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developper
 --------------------
 
-I am a creative software developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React and Next.js.
+Dynamic software developer, specializing in crafting  user-friendly web applications to solve real-world problems.
 
 <p align="left">
   
