@@ -1,4 +1,4 @@
-<img src="https://github.com/jackmangosa1/jackmangosa1/blob/main/Black%20%26%20White%20Modern%20Business%20LinkedIn%20Banner.png"/>
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jack Mangosa
 ====================================================================================================================================
