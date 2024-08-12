@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 --------------------
 
-Dynamic software developer, specializing in crafting  user-friendly web applications to solve real-world problems.
+Dynamic Software Developer, specializing in crafting  user-friendly web applications to solve real-world problems.
 
 <p align="left">
   
