@@ -17,15 +17,6 @@ Socials
 
 <p align="left"> <a href="https://www.github.com/jackmangosa1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jack-mangosa-055b062a4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jackmangosa1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jackmangosa1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmangosa1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 Top languages
 --------------------
 
