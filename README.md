@@ -8,8 +8,6 @@ With a strong foundation in JavaScript and TypeScript, I build engaging interfac
 
 What drives me is the opportunity to solve real problems with thoughtful technology. I’m always exploring new tools, improving my craft, and collaborating with others to build solutions that make a difference.
 
-Let’s connect and create something impactful together! 🚀
-
 <p align="left">
   
 Skills
