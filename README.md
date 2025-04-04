@@ -2,7 +2,13 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jack Mangosa
 ====================================================================================================================================
-I am a Dynamic Software Developer, specializing in crafting  user-friendly web applications to solve real-world problems.
+I’m a passionate software developer who loves bringing real-world ideas to life through beautiful and scalable software applications.
+
+With a strong foundation in JavaScript and TypeScript, I build engaging interfaces using React.js and Next.js, and engineer powerful backends with Node.js, and ASP.NET Core (C#). My full-stack expertise allows me to deliver seamless, end-to-end solutions—from intuitive UIs to robust APIs.
+
+What drives me is the opportunity to solve real problems with thoughtful technology. I’m always exploring new tools, improving my craft, and collaborating with others to build solutions that make a difference.
+
+Let’s connect and create something impactful together! 🚀
 
 <p align="left">
   
