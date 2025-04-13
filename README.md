@@ -2,7 +2,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jack Mangosa
 ====================================================================================================================================
-I’m a passionate software developer who loves bringing real-world ideas to life through beautiful and scalable software applications.
+I’m a software developer who loves bringing real-world ideas to life through beautiful and scalable software applications.
 
 With a strong foundation in JavaScript and TypeScript, I build engaging interfaces using React.js and Next.js, and engineer powerful backends with Node.js, and ASP.NET Core (C#). My full-stack expertise allows me to deliver seamless, end-to-end solutions—from intuitive UIs to robust APIs.
 
