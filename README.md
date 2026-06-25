@@ -2,20 +2,11 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jack Mangosa
 ====================================================================================================================================
-I am a Software Engineer passionate about leveraging technology to solve real-world challenges.
+I’m a software developer who loves bringing real-world ideas to life through beautiful and scalable software applications.
 
+With a strong foundation in JavaScript and TypeScript, I build engaging interfaces using React.js and Next.js, and engineer powerful backends with Node.js, and ASP.NET Core (C#). My full-stack expertise allows me to deliver seamless, end-to-end solutions—from intuitive UIs to robust APIs.
 
-
-I build applications with a strong focus on clean architecture, performance, usability, and long-term maintainability. My full-stack expertise allows me to deliver seamless, end-to-end experience, from backend systems to intuitive user-interfaces.
-
-
-
-My experience working in agile and international teams on enterprise-level software products has strengthened my ability to collaborate effectively, adapt quickly, and take ownership across the entire software development lifecycle.
-
-
-
-Beyond core development, I implement DevOps practices and CI/CD principles to ensure reliable delivery, automation, and continuous improvement throughout the development process.
-
+What drives me is the opportunity to solve real problems with thoughtful technology. I’m always exploring new tools, improving my craft, and collaborating with others to build solutions that make a difference.
 <p align="left">
   
 Skills
