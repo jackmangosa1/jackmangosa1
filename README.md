@@ -1,6 +1,6 @@
 # Hi, I'm Jack 👋
 
-I'm a **Software Engineer** with experience building **enterprise applications across both frontend and backend**.
+I'm a Software Engineer with experience building enterprise applications across both frontend and backend.
 
 I'm comfortable working across different technology stacks and programming languages, with my main stack being:
 
