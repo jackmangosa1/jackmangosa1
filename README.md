@@ -8,10 +8,10 @@ I'm comfortable working across different technology stacks and programming langu
 
 ### 🔭 Interested in
 
-* Software Architecture & System Design
-* Full-Stack Engineering
-* AI Engineering
-* Cloud & Infrastructure
-* Building impactful products
+- Software Architecture & System Design
+- Full-Stack Engineering
+- AI Engineering
+- Cloud & Infrastructure
+- Building impactful products
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn" style="vertical-align: middle;"/> [My LinkedIn](https://www.linkedin.com/in/jack-mangosa-055b062a4/)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn" style="vertical-align: -3px;"/> [My LinkedIn](https://www.linkedin.com/in/jack-mangosa-055b062a4/)
