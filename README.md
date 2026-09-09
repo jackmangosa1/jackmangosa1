@@ -1,6 +1,6 @@
 # Hi, I'm Jack 👋
 
-I'm a Software Engineer with experience building enterprise applications across both frontend and backend.
+I'm a **Software Engineer** with experience building **enterprise applications across both frontend and backend**.
 
 I'm comfortable working across different technology stacks and programming languages, with my main stack being:
 
@@ -14,8 +14,4 @@ I'm comfortable working across different technology stacks and programming langu
 * Cloud & Infrastructure
 * Building impactful products
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn"/> Let's connect
-
-<a href="https://www.linkedin.com/in/jack-mangosa-055b062a4/">
-  <strong>LinkedIn</strong>
-</a>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn" style="vertical-align: middle;"/> [My LinkedIn](https://www.linkedin.com/in/jack-mangosa-055b062a4/)
