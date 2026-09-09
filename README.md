@@ -14,9 +14,8 @@ I'm comfortable working across different technology stacks and programming langu
 * Cloud & Infrastructure
 * Building impactful products
 
-### <a href="https://www.linkedin.com/in/jack-mangosa-055b062a4/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
-</a> Connect
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn"/> Let's connect
 
-
-
+<a href="https://www.linkedin.com/in/jack-mangosa-055b062a4/">
+  <strong>LinkedIn</strong>
+</a>
